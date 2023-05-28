@@ -248,7 +248,7 @@ header .intro-text {
 #features {
   padding: 100px 0;
 
-  background: #f6f6f6;
+  background: #fff;
 }
 #features i.fa {
   font-size: 38px;
@@ -443,6 +443,8 @@ header .intro-text {
 }
 /* Team Section */
 #team {
+  background: #f6f6f6;
+
   padding: 100px 0;
 }
 #team h4 {

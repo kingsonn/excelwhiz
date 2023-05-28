@@ -1,21 +1,20 @@
 {
   "Header": {
     "title": "Excel Whiz",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "paragraph": "Welcome to our data analytics consultancy, where we transform raw data into valuable insights. We harnesses advanced analytics techniques to drive informed decision-making and uncover hidden patterns that fuel business growth. With our tailored solutions, we empower organizations to leverage their data's full potential and gain a competitive edge in the digital age."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Our mission is to harness the full potential of data and turn it into actionable strategies for our clients. We offer a comprehensive range of data analytics services. What sets us apart is our commitment to personalized solutions. We recognize that every business is unique, with its own set of challenges and objectives. That's why we take a customized approach, working closely with our clients to understand their specific needs and deliver tailored analytics strategies that align with their goals.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Unlocking Insights, Empowering Success.",
+      "Insights That Propel Your Business Forward"
+ 
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Customized solutions tailored to your unique business needs.",
+     
+      "Trustworthy data security and privacy protection."
+      
     ]
   },
   "Gallery": [
@@ -67,34 +66,34 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-bar-chart",
+      "name": "Data Analysis",
+      "text": "Our data analytics consultancy offers comprehensive data analysis services, leveraging advanced tools and techniques such as Excel, Python and SQL to extract valuable insights from complex datasets."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-forward",
+      "name": "Predictive Modeling",
+      "text": "We specialize in developing predictive models to uncover patterns, forecast trends, and make accurate predictions for your business. Empower your business processes like marketing, sales or finance with our predictive modelling. "
+    },
+    {
+      "icon": "fa fa-briefcase",
+      "name": "Business Intelligence",
+      "text": "Our services include developing robust business intelligence solutions that empower decision-makers with real-time access to critical information, facilitating data-driven decision-making at all levels of your organization."
+    },
+    {
+      "icon": "fa fa-info",
+      "name": "Data Strategy",
+      "text": " We provide strategic guidance and consulting services to help you define and implement a data-driven strategy. Our experts assist with data governance, data quality management, and establishing best practices for data analytics within your organization."
     },
     {
       "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Machine Learning",
+      "text": "Our expertise in machine learning empowers businesses to optimize processes, enhance decision-making, and unlock new opportunities for growth. With our comprehensive suite of machine learning services, we help clients harness the true power of data to achieve their strategic objectives."
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-line-chart",
+      "name": "Data Visualization",
+      "text": "Our experts excel in data visualization using industry-leading tools like Power BI and Tableau. We create visually compelling dashboards and reports that enable easy interpretation and communication of key insights."
     }
   ],
   "Testimonials": [
@@ -132,22 +131,22 @@
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
+      "name": "Excel",
       "job": "Director"
     },
     {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
+      "img": "img/team/02.png",
+      "name": "Python",
       "job": "Senior Designer"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
+      "name": "Power BI",
       "job": "Senior Designer"
     },
     {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
+      "img": "img/team/04.png",
+      "name": "SQL",
       "job": "Project Manager"
     }
   ],
@@ -161,24 +160,24 @@
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-bolt",
+      "title": "Advanced Analytics",
+      "text": "We utilize cutting-edge analytics techniques such as data mining, predictive modeling, machine learning, and statistical analysis. We extract valuable insights from complex datasets, enabling data-driven decision-making."
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-lightbulb-o",
+      "title": "Customised Solutons",
+      "text": "We develop unique and tailored analytics solutions that address your specific challenges and goals. We collaborate closely with you to design personalized strategies, methodologies, and models that drive tangible results."
     },
     {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-area-chart",
+      "title": "Visualization & Reporting",
+      "text": "We excel at transforming complex data into intuitive visualizations, interactive dashboards, and comprehensive reports. We empower you to understand and share insights effectively, facilitating informed decision-making."
     },
     {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-database",
+      "title": "Ethical Data Handling",
+      "text": "We adhere to rigorous ethical standards and regulatory requirements, ensuring the utmost confidentiality and protection of your data. Trust in our responsible data handling practices for a solid and enduring partnership."
     }
   ]
 }
