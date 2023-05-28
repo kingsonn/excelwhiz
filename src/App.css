@@ -1,6 +1,7 @@
 @media screen and (max-width: 430px) {
   #features {
     padding: 20px;
+    padding-top: 100px;
     width: 100%;
   }
   #about,
