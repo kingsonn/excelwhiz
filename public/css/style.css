@@ -246,6 +246,8 @@ header .intro-text {
 }
 /* Features Section */
 #features {
+  padding: 100px 0;
+
   background: #f6f6f6;
 }
 #features i.fa {
@@ -310,19 +312,19 @@ header .intro-text {
 /* Services Section */
 #services {
   padding: 100px 0;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+  background: #f6f6f6;
   color: #fff;
 }
 #services .service-desc {
   margin: 10px 10px 20px;
 }
 #services h2 {
-  color: #fff;
+  color: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
 }
 #services .section-title h2::after {
   position: absolute;
   content: "";
-  background: rgba(255, 255, 255, 0.3);
+  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
   height: 4px;
   width: 60px;
   bottom: 0;
@@ -342,10 +344,10 @@ header .intro-text {
 #services h3 {
   font-weight: 500;
   padding: 5px 0;
-  color: #fff;
+  color: black;
 }
 #services p {
-  color: rgba(255, 255, 255, 0.75);
+  color: black;
 }
 #services .service-desc {
   margin-bottom: 40px;
