@@ -253,6 +253,7 @@ header .intro-text {
 #features i.fa {
   font-size: 38px;
   margin-bottom: 20px;
+  margin-top: 20px;
   transition: all 0.5s;
   color: #fff;
   width: 100px;
@@ -261,6 +262,9 @@ header .intro-text {
   border-radius: 50%;
   background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
+}
+.feat{
+  margin-bottom: 35px;
 }
 /* About Section */
 #about {
